@@ -1,0 +1,22 @@
+{
+  "name": "custom-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lculjt/custom-cli.git"
+  },
+  "author": {
+    "name": "master li",
+    "email": "l1198727145@126.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lculjt/custom-cli/issues"
+  },
+  "homepage": "https://github.com/lculjt/custom-cli#readme"
+}
